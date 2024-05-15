@@ -5,7 +5,7 @@
 - 👉 Ask Me about SQL,Excel,Power BI Dashboard and Analysis.
 - 📫 How to reach me @nishamitkari1998@gmail.com 
 - 👩‍💻All of my projects are available at my Portfolio.
-- 🗒️Know about my experience @My Resume
+- 🗒️Know about my experience https://www.linkedin.com/in/nisha-mitkari-558038242
 
 <!---
 Nishamitkari/Nishamitkari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
